@@ -93,22 +93,6 @@ A modern **React Native mobile application** that helps users track income, expe
 - 📡 Network Connectivity Detection (Online / Offline Mode)  
 - 🔒 Secure backend with JWT authentication  
 
-## 🛠️ Tech Stack
-
-### Frontend
-- React Native
-- Redux Toolkit
-- Axios
-- Formik + Yup Validation
-- React Navigation
-
-### Backend
-- Node.js
-- Express.js
-- MongoDB Atlas
-- JWT Authentication
-- Nodemailer (OTP Verification)
-
 ## 📱 App Functionality
 
 - User registration with email OTP verification
