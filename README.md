@@ -36,6 +36,15 @@ React Native Developer | 3.8 Years IT Experience | 2+ Years React Native
 ### ☁️ Cloud & Services
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chikkavamshi987-bit&show_icons=true&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chikkavamshi987-bit&theme=tokyonight)
+
 # 📚 BookWorm 🐛
 
 BookWorm is a community-driven reading platform built for book lovers. Users can share their favorite books, write reviews, rate reads, and discover what others are reading. Whether it's fiction, non-fiction, or self-help, BookWorm helps readers find their next great book.
