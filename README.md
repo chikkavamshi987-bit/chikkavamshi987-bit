@@ -1,6 +1,12 @@
-# Hi 👋 I'm Vamshi
+<h1 align="center">Hi 👋, I'm Vamshi</h1>
 
-🚀 React Native Developer with 3.8 years of IT experience and 2+ years building cross-platform mobile applications.
+<p align="center">
+React Native Developer | 3.8 Years IT Experience | 2+ Years React Native
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&width=600&lines=React+Native+Developer;Mobile+App+Developer;JavaScript+%7C+Redux+%7C+Node.js;Building+Cross+Platform+Apps" />
+</p>
 
 ## Tech Stack
 - React Native
